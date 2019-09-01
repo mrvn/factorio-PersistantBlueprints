@@ -1,0 +1,11 @@
+{
+  "name": "PersistantBlueprints",
+  "version": "0.0.0",
+  "title": "Persistant Blueprints",
+  "author": "Goswin von Brederlow",
+  "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=28160",
+  "homepage": "https://forums.factorio.com/viewforum.php?f=",
+  "description": "Places copies of a blueprint that change when the blueprint is edited.",
+  "factorio_version": "0.17",
+	"dependencies": ["base >= 0.17"]
+}
