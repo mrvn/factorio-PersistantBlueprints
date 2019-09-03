@@ -24,6 +24,8 @@ the real world and prototype area. The position the player left from
 is preserved.
 + Clicking a persistant blueprint slave teleports the player to the
 connected master. No need to search for the right blueprint to modify.
++ Walkways have stepper disks to quickly jump one area in any
+direction. Walk around the disks if you don't want to jump.
 
 # ToDo
 
